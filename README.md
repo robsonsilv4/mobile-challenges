@@ -6,6 +6,8 @@ Nesse repositório você encontrará uma série de desafios mobile disponibiliza
 
 Além de colocar em prática seus conhecimentos adquiridos através de estudos relacionados a tecnologias mobile, você tem a chance de descobrir o que as empresas e o mercado mais requisitam em um desenvolvedor mobile e com isso, aprender ou melhorar pontos específicos. E quem sabe, você não acaba participando de algum desses processos e sendo selecionado.
 
+![Desafio aceito](challenge_accepted.jpg)
+
 ## Desafios
 
 Abaixo está a lista de desafios que encontrei após alguns dias de buscas, separadas pelo nome da empresa, site e repositório do desafio.
@@ -29,7 +31,6 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 | idwall                   | https://idwall.co/                     | [Desafio](https://github.com/idwall/desafios-iddog/tree/master/mobile)                                                                                                               |
 | Globo                    | https://opensource.globo.com/          | [Desafio](https://github.com/globoi/globoplay-desafio-mobile)                                                                                                                        |
 
-
 ## Como contribuir?
 
 Se você empresa ou colaborar quer divulgar o seu desafio ou conhece algum desafio que seja aberto, basta submeter um pull request com a vaga, preenchendo os campos da tabela. Vamos tornar juntos esse o melhor repositório de desafios para desenvolvedores mobile e ajudar assim, pessoas e empresas.
@@ -47,6 +48,7 @@ Elaborado inicialmente por [Robson Silva](https://github.com/filipedeschamps) co
 Este projeto está sob os termos da licença [MIT](./LICENSE).
 
 ### TODO:
+
 - [ ] Cidades em que as empresas atuam.
 - [ ] Tecnologia específica de cada desafio.
 
