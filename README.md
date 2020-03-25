@@ -1,12 +1,39 @@
-# Desafios Mobile (Nativos e Cross Plataform)
+<h1 align="center">
+    <img alt="Desafio aceito" title="#delicinha" src="challenge_accepted.jpg" width="300px" />
+</h1>
+
+<h4 align="center">
+  📱 Desafios Mobile | Nativos | Cross Plataform
+</h4>
+<p align="center">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/robsonsilv4/desafios-mobile">
+  
+  <a href="https://github.com/robsonsilv4/desafios-mobile/master">
+    <img alt="Último commit" src="https://img.shields.io/github/last-commit/robsonsilv4/desafios-mobile">
+  </a>
+
+  <a href="https://github.com/robsonsilv4/desafios-mobile/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/robsonsilv4/desafios-mobile">
+  </a>
+
+  <img alt="Licença" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+<p align="center">
+  <a href="#introdução">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#agradecimentos">Agradecimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
+
+## Introdução
 
 Nesse repositório você encontrará uma série de desafios mobile disponibilizados por empresas durante seus processos seletivos para desenvolvedores mobile. Os desafios variam entre tecnologias nativas de cada plataforma ou cross plataforma, dentre estas: Android, IOS, Flutter e Ionic e mais.
 
 ### Por quê fazer esses desafios, mesmo não visando a vaga?
 
 Além de colocar em prática seus conhecimentos adquiridos através de estudos relacionados a tecnologias mobile, você tem a chance de descobrir o que as empresas e o mercado mais requisitam em um desenvolvedor mobile e com isso, aprender ou melhorar pontos específicos. E quem sabe, você não acaba participando de algum desses processos e sendo selecionado.
-
-![Desafio aceito](challenge_accepted.jpg)
 
 ## Desafios
 
