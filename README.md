@@ -103,7 +103,9 @@ Também ao [Marco Bruno](https://github.com/MarcoBrunoBR) e [Felipe Fialho](http
 
 ## Contribuidores
 
-Elaborado inicialmente por [Robson Silva](https://github.com/robsonsilv4) com a ajuda dos seguintes contribuidores.
+- [Robson Silva](github.com/robsonsilv4) | mantenedor
+- [Augusto Pertence](github.com/Pertence) | [desafios](https://github.com/robsonsilv4/mobile-challenges/pull/1)
+- [Wagner Arcieri](github.com/wagarcdev) | [desafios](https://github.com/robsonsilv4/mobile-challenges/pull/3)
 
 ## Licença
 
