@@ -79,7 +79,6 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Hurb](github.com/hurbcom/challenge-alpha) | hurb.com/br
 - [➡️ iClinic](github.com/iclinic/api-desafio-mobile) | iclinic.com.br
 - [➡️ idwall](github.com/idwall/desafios-iddog/tree/master/mobile) | idwall.co
-- [➡️ PicPay](github.com/PicPay/trabalhe-conosco-mobile-dev) | picpay.com
 - [➡️ Safety System Technology](github.com/safetysystemtechnology/desafio-mobile) | safetysystemtechnology.com.br
 - [➡️ Stone Payments](github.com/stone-payments/desafio-mobile/blob/master/store/README.md) | www.stone.com.br
 - [➡️ Stone Payments](github.com/stone-payments/desafio-mobile/blob/master/wallet/README.md) | stone.com.br
