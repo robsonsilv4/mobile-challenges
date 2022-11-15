@@ -39,41 +39,55 @@ Além de colocar em prática seus conhecimentos adquiridos através de estudos r
 
 Abaixo está a lista de desafios que encontrei após alguns dias de buscas, separadas pelo nome da empresa, site e repositório do desafio.
 
-| Empresa                                                            | Desafio                                                                                                                                                                                  |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [B2W Digital](https://ri.b2w.digital)                              | [📱 Android](https://github.com/b2w-marketplace/challenge-android)                                                                                                                       |
-| [Blu](https://www.useblu.com.br/)                                  | [📱 Android](https://github.com/Pagnet/desafio-front-android)                                                                                                                            |
-| [BTG Pactual](https://www.btgpactual.com)                          | [📱 Android](https://github.com/btgpactualdigitaldev/android-challenge-BTG)                                                                                                              |
-| [CI&T](https://br.ciandt.com)                                      | [🚀 Desafio](https://github.com/ciandt-mobile/desafio-mobile)                                                                                                                            |
-| [Conductor](https://www.conductor.com.br)                          | [🚀 Desafio](https://github.com/marketpayconductor/desafio-mobile)                                                                                                                       |
-| [Consulta Remédios](https://consultaremedios.com.br)               | [📱 Android](https://github.com/ConsultaRemedios/mobile-android-challenge)                                                                                                               |
-| [Creditas](https://www.creditas.com/)                              | [⚛️ React Native](https://github.com/Creditas/challenge/tree/master/mobile-react-native)                                                                                                 |
-| [Fulllab](https://www.fulllab.com.br/)                             | [🚀 Desafio](https://github.com/fulllabS2totalcommit/desafio-mobile)                                                                                                                     |
-| [Globo](https://globo.com/)                                        | [🚀 Desafio](https://github.com/globoi/globoplay-desafio-mobile)                                                                                                                         |
-| [Hurb](https://www.hurb.com/br/)                                   | [🚀 Desafio](https://github.com/hurbcom/challenge-alpha)                                                                                                                                 |
-| [Icasei](https://www.icasei.com.br/)                               | [📱 Android](https://github.com/icasei/teste-android-developer)                                                                                                                          |
-| [iClinic](https://iclinic.com.br)                                  | [🚀 Desafio](https://github.com/iclinic/api-desafio-mobile)                                                                                                                              |
-| [idwall](https://idwall.co/)                                       | [🚀 Desafio](https://github.com/idwall/desafios-iddog/tree/master/mobile)                                                                                                                |
-| [Ioasys](https://ioasys.com.br/)                                   | [📱 Android](https://bitbucket.org/ioasys/empresas-android/src/master/)                                                                                                                  |
-| [LemonadeTech](https://itslemonade.com/)                           | [📱 Android](https://github.com/LemonadeTech/DesafioAndroid)                                                                                                                             |
-| [Máxima Tech](https://maximatech.com.br/)                          | [📱 Android](https://github.com/talentosmaxima/Android)                                                                                                                                  |
-| [Mobile PicPay](https://www.picpay.com/site)                       | [📱 Android](https://github.com/mobilepicpay/desafio-android)                                                                                                                            |
-| [Muxi Labs](http://www.muxi.com.br/)                               | [📱 Android](https://github.com/muxidev/desafio-android)                                                                                                                                 |
-| [Nexaas](https://nexaas.com/)                                      | [📱 Android](https://github.com/myfreecomm/desafio-mobile-android) / [ iOS](https://github.com/myfreecomm/desafio-mobile-ios)                                                           |
-| [Paggcerto](https://pagcerto.com.br/)                              | [📱 Android](https://github.com/paggcerto-sa/desafios/blob/master/mobile-android.md) / [ iOS](https://github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md)                       |
-| [PicPay](https://www.picpay.com/)                                  | [🚀 Desafio](https://github.com/PicPay/trabalhe-conosco-mobile-dev)                                                                                                                      |
-| [Pitang Agile IT](https://www.pitang.com)                          | [📱 Android](https://github.com/pitangagile/desafio-android)                                                                                                                             |
-| [PopcodeMobile](http://popcode.com.br/)                            | [📱 Android](https://github.com/PopcodeMobile/desafio-android)                                                                                                                           |
-| [Safety System Technology](https://safetysystemtechnology.com.br/) | [🚀 Desafio](https://github.com/safetysystemtechnology/desafio-mobile)                                                                                                                   |
-| [Squad](http://squad.com.br/)                                      | [📱 Android](https://github.com/squadbr/Desafio-Android)                                                                                                                                 |
-| [Stone Payments](https://www.stone.com.br/)                        | [🚀 Desafio](https://github.com/stone-payments/desafio-mobile/blob/master/store/README.md) / [🚀 Desafio](https://github.com/stone-payments/desafio-mobile/blob/master/wallet/README.md) |
-| [Warren Brasil](https://warrenbrasil.com.br)                       | [🚀 Desafio](https://github.com/warrenbrasil/desafio-warren-mobile)                                                                                                                      |
-| [AirCall](https://aircall.io/)                       | [📱 Android](https://github.com/aircall/android-test)                                                                                                                      |
-| [Seekers Capital](https://www.linkedin.com/company/seekers-capital-group/?originalSubdomain=hk)                       | [📱 Android](https://github.com/SeekersAdvisorsLabs/hr-mobile-android-test)                                                                                                                      |
-| [Thortful](https://www.thortful.com/)                       | [📱 Android](https://github.com/mhasanali/ThortfulTest)                                                                                                                      |
-| [Mango Tech](https://www.tech.mango/)                       | [📱 Android](https://github.com/mango-tech/RickAndMortyApp)                                                                                                                      |
-| [BrightHR](https://www.brighthr.com/)                         | [📱 Android](https://github.com/brighthr/TechnicalTest.Android)                                                                                                                      |
-| [Aiko Digital](https://aiko.digital/)                       | [📱 Android](https://github.com/aikodigital/teste-android-estagio-v1)                                                                                                                      |
+➡️ desafio | site da empresa
+
+### Android 📱:
+
+- [➡️ Aiko Digital](github.com/aikodigital/teste-android-estagio-v1) | aiko.digital
+- [➡️ B2W Digital](github.com/b2w-marketplace/challenge-android) | ri.b2w.digital
+- [➡️ Blu](github.com/Pagnet/desafio-front-android) | useblu.com.br
+- [➡️ BrightHR](github.com/brighthr/TechnicalTest.Android) | brighthr.com
+- [➡️ BTG Pactual](github.com/btgpactualdigitaldev/android-challenge-BTG) | btgpactual.com
+- [➡️ Consulta Remédios](github.com/ConsultaRemedios/mobile-android-challenge) | consultaremedios.com.br
+- [➡️ Icasei](github.com/icasei/teste-android-developer) | icasei.com.br
+- [➡️ Ioasys](bitbucket.org/ioasys/empresas-android/src/master) | ioasys.com.br
+- [➡️ LemonadeTech](github.com/LemonadeTech/DesafioAndroid) | itslemonade.com
+- [➡️ Máxima Tech](github.com/talentosmaxima/Android) | maximatech.com.br
+- [➡️ Mobile PicPay](github.com/mobilepicpay/desafio-android) | picpay.com/site
+- [➡️ Muxi Labs](github.com/muxidev/desafio-android) | muxi.com.br
+- [➡️ Nexaas](github.com/myfreecomm/desafio-mobile-android) | nexaas.com
+- [➡️ Paggcerto](github.com/paggcerto-sa/desafios/blob/master/mobile-android.md) | pagcerto.com.br
+- [➡️ Pitang Agile IT](github.com/pitangagile/desafio-android) | pitang.com
+- [➡️ PopcodeMobile](github.com/PopcodeMobile/desafio-android) | popcode.com.br
+- [➡️ Squad](github.com/squadbr/Desafio-Android) | squad.com.br
+- [➡️ AirCall](github.com/aircall/android-test) | aircall.io
+- [➡️ Seekers Capital](github.com/SeekersAdvisorsLabs/hr-mobile-android-test) | linkedin.com/company/seekers-capital-group
+- [➡️ Thortful](github.com/mhasanali/ThortfulTest) | thortful.com
+- [➡️ Mango Tech](github.com/mango-tech/RickAndMortyApp) | tech.mango
+
+### iOS 
+
+- [➡️ Nexaas](github.com/myfreecomm/desafio-mobile-ios) | nexaas.com
+- [➡️ Paggcerto](github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md) | pagcerto.com.br
+
+### Mobile 🚀
+
+- [➡️ CI&T](github.com/ciandt-mobile/desafio-mobile) | br.ciandt.com
+- [➡️ Conductor](github.com/marketpayconductor/desafio-mobile) | conductor.com.br
+- [➡️ Fulllab](github.com/fulllabS2totalcommit/desafio-mobile) | fulllab.com.br
+- [➡️ Globo](github.com/globoi/globoplay-desafio-mobile) | globo.com
+- [➡️ Hurb](github.com/hurbcom/challenge-alpha) | hurb.com/br
+- [➡️ iClinic](github.com/iclinic/api-desafio-mobile) | iclinic.com.br
+- [➡️ idwall](github.com/idwall/desafios-iddog/tree/master/mobile) | idwall.co
+- [➡️ PicPay](github.com/PicPay/trabalhe-conosco-mobile-dev) | picpay.com
+- [➡️ Safety System Technology](github.com/safetysystemtechnology/desafio-mobile) | safetysystemtechnology.com.br
+- [➡️ Stone Payments](github.com/stone-payments/desafio-mobile/blob/master/store/README.md) | www.stone.com.br
+- [➡️ Stone Payments](github.com/stone-payments/desafio-mobile/blob/master/wallet/README.md) | stone.com.br
+- [➡️ Warren Brasil](github.com/warrenbrasil/desafio-warren-mobile) | warrenbrasil.com.br
+
+### React Native
+
+- [Creditas](github.com/Creditas/challenge/tree/master/mobile-react-native) | creditas.com
 
 Se estiver procurando por outros desafios além de mobile, você pode encontrar os de back-end [aqui](https://github.com/CollabCodeTech/backend-challenges) e os front-end [aqui](https://github.com/felipefialho/frontend-challenges).
 
