@@ -65,7 +65,7 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Thortful](github.com/mhasanali/ThortfulTest) | thortful.com
 - [➡️ Mango Tech](github.com/mango-tech/RickAndMortyApp) | tech.mango
 
-### iOS 
+### iOS 🍎
 
 - [➡️ Nexaas](github.com/myfreecomm/desafio-mobile-ios) | nexaas.com
 - [➡️ Paggcerto](github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md) | pagcerto.com.br
@@ -85,7 +85,11 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Stone Payments](github.com/stone-payments/desafio-mobile/blob/master/wallet/README.md) | stone.com.br
 - [➡️ Warren Brasil](github.com/warrenbrasil/desafio-warren-mobile) | warrenbrasil.com.br
 
-### React Native
+### Flutter 🟦
+
+- ...
+
+### React Native ⚛️
 
 - [Creditas](github.com/Creditas/challenge/tree/master/mobile-react-native) | creditas.com
 
