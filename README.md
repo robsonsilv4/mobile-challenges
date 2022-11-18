@@ -50,14 +50,14 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Blu](github.com/Pagnet/desafio-front-android) | useblu.com.br
 - [➡️ BrightHR](github.com/brighthr/TechnicalTest.Android) | brighthr.com
 - [➡️ BTG Pactual](github.com/btgpactualdigitaldev/android-challenge-BTG) | btgpactual.com
-- [➡️ Ciclic](https://github.com/ciclic/test-android) | 
-- [➡️ Claro](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android) | 
+- [➡️ Ciclic](https://github.com/ciclic/test-android) | ciclic.com.br
+- [➡️ Claro](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android) | claro.com.br
 - [➡️ Consulta Remédios](github.com/ConsultaRemedios/mobile-android-challenge) | consultaremedios.com.br
-- [➡️ Easynvest](github.com/easynvest/teste-android) |
-- [➡️ Goomer](github.com/goomerdev/job-dev-android-interview)
+- [➡️ Easynvest](github.com/easynvest/teste-android) | nuinvest.com.br
+- [➡️ Goomer](github.com/goomerdev/job-dev-android-interview) | goomer.com.br
 - [➡️ iCasei](github.com/icasei/teste-android-developer) | icasei.com.br
 - [➡️ Ioasys](bitbucket.org/ioasys/empresas-android/src/master) | ioasys.com.br
-- [➡️ Jeitto](github.com/Jeitto/Android-Challenge) |
+- [➡️ Jeitto](github.com/Jeitto/Android-Challenge) | jeitto.com.br
 - [➡️ Lemonade](github.com/LemonadeTech/DesafioAndroid) | itslemonade.com
 - [➡️ Máxima Tech](github.com/talentosmaxima/Android) | maximatech.com.br
 - [➡️ PicPay](github.com/mobilepicpay/desafio-android) | picpay.com/site
@@ -70,22 +70,25 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Squad](github.com/squadbr/Desafio-Android) | squad.com.br
 - [➡️ AirCall](github.com/aircall/android-test) | aircall.io
 - [➡️ Seekers Capital](github.com/SeekersAdvisorsLabs/hr-mobile-android-test) | linkedin.com/company/seekers-capital-group
-- [➡️ Squad](github.com/squadbr/Desafio-Android)
+- [➡️ Squad](github.com/squadbr/Desafio-Android) | squad.com.br
 - [➡️ Thortful](github.com/mhasanali/ThortfulTest) | thortful.com
 - [➡️ Mango Tech](github.com/mango-tech/RickAndMortyApp) | tech.mango
-- [➡️ Viva Decora](github.com/vivadecora/vd-android-test)
+- [➡️ Viva Decora](github.com/vivadecora/vd-android-test) | vivadecora.com.br
 
 ### iOS 🍎
 
-- [➡️ B2W Digital](https://github.com/b2w-marketplace/challenge-ios)
-- [➡️ Ciclic](https://github.com/ciclic/test-ios)
+- [➡️ B2W Digital](https://github.com/b2w-marketplace/challenge-ios) | americanasmarketplace.com.br
+- [➡️ BTG Pactual](https://github.com/btgpactualdigitaldev/iOS-challenge-BTG) | btgpactual.com
+- [➡️ Ciclic](https://github.com/ciclic/test-ios) | ciclic.com.br
+- [➡️ Claro](https://github.com/mobile-clarobrasil/claro-brasil-challenge-ios) | claro.com.br
 - [➡️ Nexaas](github.com/myfreecomm/desafio-mobile-ios) | nexaas.com
 - [➡️ Paggcerto](github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md) | pagcerto.com.br
-- [➡️ Viva Decora](https://github.com/vivadecora/ios-teste)
+- [➡️ Squad](https://github.com/squadbr/Desafio-iOS) | squad.com.br
+- [➡️ Viva Decora](https://github.com/vivadecora/ios-teste) | vivadecora.com.br
 
 ### Mobile 🚀
 
-- [➡️ BTG Pactual](https://github.com/btgpactualdigitaldev/mobile-challenge)
+- [➡️ BTG Pactual](https://github.com/btgpactualdigitaldev/mobile-challenge) | btgpactual.com
 - [➡️ Capitual](https://github.com/capitual/mobile-challenge) | capitual.com
 - [➡️ CI&T](github.com/ciandt-mobile/desafio-mobile) | br.ciandt.com
 - [➡️ Conductor](github.com/marketpayconductor/desafio-mobile) | conductor.com.br
@@ -94,12 +97,12 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Hurb](github.com/hurbcom/challenge-alpha) | hurb.com/br
 - [➡️ iClinic](github.com/iclinic/api-desafio-mobile) | iclinic.com.br
 - [➡️ idwall](github.com/idwall/desafios-iddog/tree/master/mobile) | idwall.co
-- [➡️ Ocado Technology](https://github.com/ocadotechnology/mobile-challenge)
+- [➡️ Ocado Technology](https://github.com/ocadotechnology/mobile-challenge) | ocadotechnology.com
 - [➡️ Petlove](github.com/petlove/vagas/tree/master/mobile) | petlove.com.br
 - [➡️ Safety System Technology](github.com/safetysystemtechnology/desafio-mobile) | safetysystemtechnology.com.br
 - [➡️ SnowManLabs](https://github.com/snowmanlabs/mobile-challenge) | 
 - [➡️ Stone](https://github.com/stone-payments/desafio-mobile) | stone.com.br
-- [➡️ Stoodi](github.com/stoodibr/mobile-challenge)
+- [➡️ Stoodi](github.com/stoodibr/mobile-challenge) | stoodi.com.br
 - [➡️ Warren Brasil](github.com/warrenbrasil/desafio-warren-mobile) | warrenbrasil.com.br
 
 ### Flutter 🟦
