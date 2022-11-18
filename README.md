@@ -100,6 +100,7 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Ocado Technology](https://github.com/ocadotechnology/mobile-challenge) | ocadotechnology.com
 - [➡️ Petlove](https://github.com/petlove/vagas/tree/master/mobile) | petlove.com.br
 - [➡️ Safety System Technology](github.com/safetysystemtechnology/desafio-mobile) | safetysystemtechnology.com.br
+- [➡️ Skore](https://github.com/skore-io/teste-mobile) | skore.io
 - [➡️ SnowManLabs](https://github.com/snowmanlabs/mobile-challenge) | 
 - [➡️ Stone](https://github.com/stone-payments/desafio-mobile) | stone.com.br
 - [➡️ Stoodi](https://github.com/stoodibr/mobile-challenge) | stoodi.com.br
@@ -107,7 +108,10 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 
 ### Flutter 🟦
 
+- [Dreamlabs](https://dreamlabs.com.br/wp-content/uploads/2021/09/desafio_flutter_dreamlabs.pdf) | dreamlabs.com.br
 - [Eleve Software](https://github.com/eleve-software/desafio-flutter) | elevecrm.com.br
+- [Gendo](https://github.com/jbaladao/gendo-flutter-test) | gendo.com.br
+- [Rocketseat](https://github.com/rocketseat-education/flutter-educator-challenge) | rocketseat.com.br
 
 ### React Native ⚛️
 
