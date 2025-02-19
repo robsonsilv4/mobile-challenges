@@ -39,7 +39,7 @@ Além de praticar seus conhecimentos em tecnologias mobile, você pode identific
 
 Abaixo está a lista de desafios encontrados, organizados por empresa, site e repositório correspondente.
 
-### Android 📱
+### Android
 
 - [Aiko Digital](https://github.com/aikodigital/teste-android-estagio-v1) - [aiko.digital](https://aiko.digital)
 - [AirCall](https://github.com/aircall/android-test) - [aircall.io](https://aircall.io)
@@ -71,7 +71,7 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 - [Mango Tech](https://github.com/mango-tech/RickAndMortyApp) - [tech.mango](https://tech.mango)
 - [Viva Decora](https://github.com/vivadecora/vd-android-test) - [vivadecora.com.br](https://vivadecora.com.br)
 
-### iOS 🍎
+### iOS
 
 - [B2W Digital](https://github.com/b2w-marketplace/challenge-ios) - [americanasmarketplace.com.br](https://americanasmarketplace.com.br)
 - [BTG Pactual](https://github.com/btgpactualdigitaldev/iOS-challenge-BTG) - [btgpactual.com](https://btgpactual.com)
@@ -82,7 +82,7 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 - [Squad](https://github.com/squadbr/Desafio-iOS) - [squad.com.br](https://squad.com.br)
 - [Viva Decora](https://github.com/vivadecora/ios-teste) - [vivadecora.com.br](https://vivadecora.com.br)
 
-### Mobile 🚀
+### Mobile
 
 - [BTG Pactual](https://github.com/btgpactualdigitaldev/mobile-challenge) - [btgpactual.com](https://btgpactual.com)
 - [Capitual](https://github.com/capitual/mobile-challenge) - [capitual.com](https://capitual.com)
@@ -102,14 +102,14 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 - [Stoodi](https://github.com/stoodibr/mobile-challenge) - [stoodi.com.br](https://stoodi.com.br)
 - [Warren Brasil](https://github.com/warrenbrasil/desafio-warren-mobile) - [warrenbrasil.com.br](https://warrenbrasil.com.br)
 
-### Flutter 🟦
+### Flutter
 
 - [Dreamlabs](https://dreamlabs.com.br/wp-content/uploads/2021/09/desafio_flutter_dreamlabs.pdf) - [dreamlabs.com.br](https://dreamlabs.com.br)
 - [Eleve Software](https://github.com/eleve-software/desafio-flutter) - [elevecrm.com.br](https://elevecrm.com.br)
 - [Gendo](https://github.com/jbaladao/gendo-flutter-test) - [gendo.com.br](https://gendo.com.br)
 - [Rocketseat](https://github.com/rocketseat-education/flutter-educator-challenge) - [rocketseat.com.br](https://rocketseat.com.br)
 
-### React Native ⚛️
+### React Native
 
 - [Creditas](https://github.com/Creditas/challenge/tree/master/mobile-react-native) - [creditas.com](https://creditas.com)
 
@@ -140,5 +140,3 @@ Também ao [Marco Bruno](https://github.com/MarcoBrunoBR) e [Felipe Fialho](http
 ## Licença
 
 Este projeto está sob os termos da licença [MIT](./LICENSE).
-
-Feito com Markdown, Git e ❤️.
