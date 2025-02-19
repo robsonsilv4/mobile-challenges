@@ -8,10 +8,9 @@ Este repositório reúne uma série de desafios mobile propostos por empresas du
   - [Conteúdo](#conteúdo)
     - [Por que fazer os Desafios?](#por-que-fazer-os-desafios)
   - [Desafios](#desafios)
+    - [Mobile](#mobile)
     - [Android](#android)
     - [iOS](#ios)
-    - [iOS](#ios-1)
-    - [Mobile](#mobile)
     - [Flutter](#flutter)
     - [React Native](#react-native)
   - [Como contribuir](#como-contribuir)
@@ -27,7 +26,33 @@ Além de praticar seus conhecimentos em tecnologias mobile, você pode identific
 
 Abaixo está a lista de desafios encontrados, organizados por empresa, site e repositório correspondente.
 
+### Mobile
+
+Desafios com foco em mobile, seja nativo ou cross-platform.
+
+| Empresa                  | Desafio                                                                        | Site                                                                   |
+| ------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| BTG Pactual              | [Mobile Challenge](https://github.com/btgpactualdigitaldev/mobile-challenge)   | [btgpactual.com](https://btgpactual.com)                               |
+| Capitual                 | [Mobile Challenge](https://github.com/capitual/mobile-challenge)               | [capitual.com](https://capitual.com)                                   |
+| CI&T                     | [Desafio Mobile](https://github.com/ciandt-mobile/desafio-mobile)              | [br.ciandt.com](https://br.ciandt.com)                                 |
+| Conductor                | [Desafio Mobile](https://github.com/marketpayconductor/desafio-mobile)         | [conductor.com.br](https://conductor.com.br)                           |
+| Fulllab                  | [Desafio Mobile](https://github.com/fulllabS2totalcommit/desafio-mobile)       | [fulllab.com.br](https://fulllab.com.br)                               |
+| Globo                    | [Globoplay Desafio Mobile](https://github.com/globoi/globoplay-desafio-mobile) | [globo.com](https://globo.com)                                         |
+| Hurb                     | [Challenge Alpha](https://github.com/hurbcom/challenge-alpha)                  | [hurb.com/br](https://hurb.com/br)                                     |
+| iClinic                  | [API Desafio Mobile](https://github.com/iclinic/api-desafio-mobile)            | [iclinic.com.br](https://iclinic.com.br)                               |
+| idwall                   | [Desafios IDDog](https://github.com/idwall/desafios-iddog/tree/master/mobile)  | [idwall.co](https://idwall.co)                                         |
+| Ocado Technology         | [Mobile Challenge](https://github.com/ocadotechnology/mobile-challenge)        | [ocadotechnology.com](https://ocadotechnology.com)                     |
+| Petlove                  | [Vagas Mobile](https://github.com/petlove/vagas/tree/master/mobile)            | [petlove.com.br](https://petlove.com.br)                               |
+| Safety System Technology | [Desafio Mobile](https://github.com/safetysystemtechnology/desafio-mobile)     | [safetysystemtechnology.com.br](https://safetysystemtechnology.com.br) |
+| Skore                    | [Teste Mobile](https://github.com/skore-io/teste-mobile)                       | [skore.io](https://skore.io)                                           |
+| SnowManLabs              | [Mobile Challenge](https://github.com/snowmanlabs/mobile-challenge)            | [snowmanlabs.com](https://snowmanlabs.com)                             |
+| Stone                    | [Desafio Mobile](https://github.com/stone-payments/desafio-mobile)             | [stone.com.br](https://stone.com.br)                                   |
+| Stoodi                   | [Mobile Challenge](https://github.com/stoodibr/mobile-challenge)               | [stoodi.com.br](https://stoodi.com.br)                                 |
+| Warren Brasil            | [Desafio Warren Mobile](https://github.com/warrenbrasil/desafio-warren-mobile) | [warrenbrasil.com.br](https://warrenbrasil.com.br)                     |
+
 ### Android
+
+Desafios com foco em Android.
 
 | Empresa           | Desafio                                                                                                | Site                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
@@ -63,7 +88,7 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 
 ### iOS
 
-### iOS
+Desafios com foco em iOS.
 
 | Empresa     | Desafio                                                                                        | Site                                                                 |
 | ----------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -74,31 +99,11 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 | Nexaas      | [Desafio Mobile iOS](https://github.com/myfreecomm/desafio-mobile-ios)                         | [nexaas.com](https://nexaas.com)                                     |
 | Paggcerto   | [Desafios Mobile iOS](https://github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md)      | [pagcerto.com.br](https://pagcerto.com.br)                           |
 | Squad       | [Desafio iOS](https://github.com/squadbr/Desafio-iOS)                                          | [squad.com.br](https://squad.com.br)                                 |
-| Viva Decora | [iOS Teste](https://github.com/vivadecora/ios-teste)                                           | [vivadecora.com.br](https://vivadecora.com.br)                       |
-
-### Mobile
-
-| Empresa                  | Desafio                                                                        | Site                                                                   |
-| ------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| BTG Pactual              | [Mobile Challenge](https://github.com/btgpactualdigitaldev/mobile-challenge)   | [btgpactual.com](https://btgpactual.com)                               |
-| Capitual                 | [Mobile Challenge](https://github.com/capitual/mobile-challenge)               | [capitual.com](https://capitual.com)                                   |
-| CI&T                     | [Desafio Mobile](https://github.com/ciandt-mobile/desafio-mobile)              | [br.ciandt.com](https://br.ciandt.com)                                 |
-| Conductor                | [Desafio Mobile](https://github.com/marketpayconductor/desafio-mobile)         | [conductor.com.br](https://conductor.com.br)                           |
-| Fulllab                  | [Desafio Mobile](https://github.com/fulllabS2totalcommit/desafio-mobile)       | [fulllab.com.br](https://fulllab.com.br)                               |
-| Globo                    | [Globoplay Desafio Mobile](https://github.com/globoi/globoplay-desafio-mobile) | [globo.com](https://globo.com)                                         |
-| Hurb                     | [Challenge Alpha](https://github.com/hurbcom/challenge-alpha)                  | [hurb.com/br](https://hurb.com/br)                                     |
-| iClinic                  | [API Desafio Mobile](https://github.com/iclinic/api-desafio-mobile)            | [iclinic.com.br](https://iclinic.com.br)                               |
-| idwall                   | [Desafios IDDog](https://github.com/idwall/desafios-iddog/tree/master/mobile)  | [idwall.co](https://idwall.co)                                         |
-| Ocado Technology         | [Mobile Challenge](https://github.com/ocadotechnology/mobile-challenge)        | [ocadotechnology.com](https://ocadotechnology.com)                     |
-| Petlove                  | [Vagas Mobile](https://github.com/petlove/vagas/tree/master/mobile)            | [petlove.com.br](https://petlove.com.br)                               |
-| Safety System Technology | [Desafio Mobile](https://github.com/safetysystemtechnology/desafio-mobile)     | [safetysystemtechnology.com.br](https://safetysystemtechnology.com.br) |
-| Skore                    | [Teste Mobile](https://github.com/skore-io/teste-mobile)                       | [skore.io](https://skore.io)                                           |
-| SnowManLabs              | [Mobile Challenge](https://github.com/snowmanlabs/mobile-challenge)            | [snowmanlabs.com](https://snowmanlabs.com)                             |
-| Stone                    | [Desafio Mobile](https://github.com/stone-payments/desafio-mobile)             | [stone.com.br](https://stone.com.br)                                   |
-| Stoodi                   | [Mobile Challenge](https://github.com/stoodibr/mobile-challenge)               | [stoodi.com.br](https://stoodi.com.br)                                 |
-| Warren Brasil            | [Desafio Warren Mobile](https://github.com/warrenbrasil/desafio-warren-mobile) | [warrenbrasil.com.br](https://warrenbrasil.com.br)                     |
+| Viva Decora | [iOS Teste](https://github.com/vivadecora/ios-teste)                                           | [vivadecora.com.br](https://vivadecora.com.br)                       |  |
 
 ### Flutter
+
+Desafios com foco em Flutter.
 
 | Empresa        | Desafio                                                                                                        | Site                                           |
 | -------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -108,6 +113,8 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 | Rocketseat     | [Flutter Educator Challenge](https://github.com/rocketseat-education/flutter-educator-challenge)               | [rocketseat.com.br](https://rocketseat.com.br) |
 
 ### React Native
+
+Desafios com foco em React Native.
 
 | Empresa  | Desafio                                                                                                | Site                                 |
 | -------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------ |
