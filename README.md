@@ -1,56 +1,26 @@
-# Desafios Mobile | Nativos | Cross Platform
+# Desafios Mobile, Nativos e Cross Platform
 
-<p align="center">
-  <img alt="Desafio aceito" title="#challengeAccepted" src="challenge_accepted.jpg" width="300px" />
-</p>
-
-<p align="center">
-  📱 Desafios Mobile | Nativos | Cross Platform
-</p>
-
-<p align="center">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/robsonsilv4/desafios-mobile">
-  <img alt="Último commit" src="https://img.shields.io/github/last-commit/robsonsilv4/desafios-mobile">
-  <img alt="Issues" src="https://img.shields.io/github/issues/robsonsilv4/desafios-mobile">
-  <img alt="Licença" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
-
-<p align="center">
-  <a href="#introdução">Introdução</a> •
-  <a href="#desafios">Desafios</a> •
-  <a href="#como-contribuir">Como contribuir</a> •
-  <a href="#agradecimentos">Agradecimentos</a> •
-  <a href="#licença">Licença</a>
-</p>
-
----
+Este repositório reúne uma série de desafios mobile propostos por empresas durante seus processos seletivos para desenvolvedores mobile. Os desafios abrangem tecnologias nativas e cross-platform, como Android, iOS, Flutter, React Native, Ionic e outras.
 
 ## Conteúdo
 
-- [Desafios Mobile | Nativos | Cross Platform](#desafios-mobile--nativos--cross-platform)
+- [Desafios Mobile, Nativos e Cross Platform](#desafios-mobile-nativos-e-cross-platform)
   - [Conteúdo](#conteúdo)
-  - [Introdução](#introdução)
-    - [Por que fazer esses desafios, mesmo sem visar a vaga?](#por-que-fazer-esses-desafios-mesmo-sem-visar-a-vaga)
+    - [Por que fazer os Desafios?](#por-que-fazer-os-desafios)
   - [Desafios](#desafios)
     - [Android](#android)
     - [iOS](#ios)
     - [Mobile](#mobile)
     - [Flutter](#flutter)
     - [React Native](#react-native)
-  - [Como contribuir?](#como-contribuir)
+  - [Como contribuir](#como-contribuir)
   - [Agradecimentos](#agradecimentos)
   - [Contribuidores](#contribuidores)
   - [Licença](#licença)
 
-## Introdução
-
-Este repositório reúne uma série de desafios mobile propostos por empresas durante seus processos seletivos para desenvolvedores mobile. Os desafios abrangem tecnologias nativas e cross-platform, como Android, iOS, Flutter, React Native, Ionic e outras.
-
-### Por que fazer esses desafios, mesmo sem visar a vaga?
+### Por que fazer os Desafios?
 
 Além de praticar seus conhecimentos em tecnologias mobile, você pode identificar as habilidades mais valorizadas pelas empresas e pelo mercado. Essa experiência permite aprimorar competências específicas e, quem sabe, até ser selecionado em algum desses processos!
-
----
 
 ## Desafios
 
@@ -130,29 +100,19 @@ Abaixo está a lista de desafios encontrados, organizados por empresa, site e re
 
 - [Creditas](https://github.com/Creditas/challenge/tree/master/mobile-react-native) - [creditas.com](https://creditas.com)
 
----
-
-## Como contribuir?
+## Como contribuir
 
 Se você é uma empresa ou colaborador e deseja divulgar um desafio ou conhece algum desafio aberto, basta submeter um **pull request** com a vaga, preenchendo os campos da tabela. Vamos tornar juntos este o melhor repositório de desafios para desenvolvedores mobile!
 
----
-
 ## Agradecimentos
 
-Agradeço a todas as empresas por disponibilizarem abertamente os desafios e ao [Filipe Deschamps](https://github.com/filipedeschamps) por me inspirar a elaborar essa lista.
-
-Também ao [Marco Bruno](https://github.com/MarcoBrunoBR) e [Felipe Fialho](https://github.com/felipefialho) pelos excelentes repositórios de back-end e front-end.
-
----
+Agradeço a todas as empresas por disponibilizarem abertamente os desafios e ao [Filipe Deschamps](https://github.com/filipedeschamps) por me inspirar a elaborar essa lista. Também ao [Marco Bruno](https://github.com/MarcoBrunoBR) e [Felipe Fialho](https://github.com/felipefialho) pelos excelentes repositórios de back-end e front-end.
 
 ## Contribuidores
 
-- [Robson Silva](https://github.com/robsonsilv4) | Mantenedor
-- [Augusto Pertence](https://github.com/Pertence) | [Desafios](https://github.com/robsonsilv4/mobile-challenges/pull/1)
-- [Wagner Arcieri](https://github.com/wagarcdev) | [Desafios](https://github.com/robsonsilv4/mobile-challenges/pull/3)
-
----
+- [Robson Silva](https://github.com/robsonsilv4) - Mantenedor
+- [Augusto Pertence](https://github.com/Pertence) - [Desafios](https://github.com/robsonsilv4/mobile-challenges/pull/1)
+- [Wagner Arcieri](https://github.com/wagarcdev) - [Desafios](https://github.com/robsonsilv4/mobile-challenges/pull/3)
 
 ## Licença
 
