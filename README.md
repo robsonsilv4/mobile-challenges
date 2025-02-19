@@ -1,3 +1,5 @@
+README em [Português](./README.md) | [Inglês](./README_en.md)
+
 # Desafios Mobile, Nativos e Cross Platform
 
 Este repositório reúne uma série de desafios mobile propostos por empresas durante seus processos seletivos para desenvolvedores mobile. Os desafios abrangem tecnologias nativas e cross-platform, como Android, iOS, Flutter, React Native, Ionic e outras.
